@@ -14,10 +14,32 @@ This comprehensive tutorial focuses on classical 3D computer graphics with an em
 
 ## Chapter Structure
 
-Each chapter has a corresponding Jupyter notebook for implementation:
-- `chapter_01_math_foundations.ipynb` - Chapter 1 implementation
-- `chapter_02_framebuffer_2d.ipynb` - Chapter 2 implementation
-- ... and so on through Chapter 20
+Each chapter has a corresponding Jupyter notebook for implementation. You can open them directly in Google Colab:
+
+| Chapter | Notebook | Open in Colab |
+|---------|----------|---------------|
+| 1 | Mathematical Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_01_math_foundations.ipynb) |
+| 2 | Framebuffer and 2D Rasterization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_02_framebuffer_2d.ipynb) |
+| 3 | 3D Geometry and Data Structures | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_03_3d_geometry.ipynb) |
+| 4 | 3D Transformations and Viewing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_04_transformations.ipynb) |
+| 5 | Visibility and Hidden Surface Removal | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_05_visibility_and_hidden_surface_removal.ipynb) |
+| 6 | Triangle Rasterization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_06_triangle_rasterization.ipynb) |
+| 7 | Shading and Illumination | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_07_shading_and_illumination.ipynb) |
+| 8 | Ray Tracing - Core | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_08_ray_tracing_-_core_implementation.ipynb) |
+| 9 | Acceleration Structures | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_09_acceleration_structures.ipynb) |
+| 10 | Distribution Ray Tracing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_10_distribution_ray_tracing_and_monte_carlo.ipynb) |
+| 11 | Path Tracing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_11_path_tracing_implementation.ipynb) |
+| 12 | Physically Based Rendering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_12_physically_based_rendering_pbr.ipynb) |
+| 13 | Texturing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_13_texturing_from_scratch.ipynb) |
+| 14 | Advanced Rendering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_14_advanced_rendering_techniques.ipynb) |
+| 15 | Animation and Simulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_15_animation_and_simulation.ipynb) |
+| 16 | Geometric Algorithms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_16_geometric_algorithms.ipynb) |
+| 17 | Advanced Topics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_17_advanced_topics.ipynb) |
+| 18 | Optimization and Parallelization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_18_optimization_and_parallelization.ipynb) |
+| 19 | Advanced Ray Tracing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_19_advanced_ray_tracing_topics.ipynb) |
+| 20 | Integration and Projects | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/computer-vision/blob/main/chapter_20_integration_and_projects.ipynb) |
+
+> **Note:** After pushing to GitHub, the Colab badges above will automatically open the notebooks in Google Colab for interactive learning.
 
 ---
 
